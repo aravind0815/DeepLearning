@@ -1,0 +1,2 @@
+Instruction: Write a SQL query to select all customers from 'orders' table.
+Solution: SELECT * FROM orders;
